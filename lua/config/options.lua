@@ -3,3 +3,4 @@
 -- Add any additional options here
 vim.o.pumwidth = 20
 vim.o.pumheight = 10
+vim.opt.winborder = "rounded"
